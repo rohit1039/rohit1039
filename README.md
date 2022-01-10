@@ -20,7 +20,7 @@
 <div class="display-inline-block">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-9.jpg" />
-<img align="left" alt="CSS3" width="26px" src="https://png.pngitem.com/pimgs/s/198-1985002_css3-logo-hd-png-download.png" />
+<img align="left" alt="CSS3" width="26px" src="https://banner2.cleanpng.com/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" />
   <img align="left"  width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 </div>
 
