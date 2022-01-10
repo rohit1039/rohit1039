@@ -28,13 +28,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=reactJS)](https://github.com/rohit1039/reactJS)
 
-<br />
-
 ### My GitHub stats:
 
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)](https://github.com/rohit1039/rohit1039)
 
-<br />
 
 ### My GitHub Contributions:
 
