@@ -29,8 +29,4 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039)](https://github.com/rohit1039/rohit1039)
-
-<br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=reactJS)](https://github.com/rohit1039/rohit1039)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=rohit1039/reactJS)](https://github.com/rohit1039/rohit1039)
