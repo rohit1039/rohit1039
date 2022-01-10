@@ -25,8 +25,8 @@
 
 ### My GitHub stats:
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)](https://github.com/rohit1039/github-readme-stats)
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039)](https://github.com/rohit1039/github-readme-stats)
