@@ -12,6 +12,7 @@
 <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left"  width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 
 <br />
 
