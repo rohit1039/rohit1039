@@ -29,4 +29,4 @@
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=rohit1039/reactJS)](https://github.com/rohit1039/rohit1039)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=https://github.com/rohit1039/reactJS)](https://github.com/rohit1039/rohit1039)
