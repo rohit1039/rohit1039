@@ -12,7 +12,6 @@
 <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left"  width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 
 <br />
 
@@ -22,6 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-9.jpg" />
 <img align="left" alt="CSS3" width="28px" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" />
+  <img align="left"  width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 </div>
 
 <br />
