@@ -1,4 +1,4 @@
-### Hi there, I'm Rohit 👋 
+### Hi there, I'm Rohit 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
