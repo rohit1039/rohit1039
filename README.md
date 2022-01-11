@@ -16,10 +16,11 @@
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-ReactJS-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a)
 
 ### BackEnd Technologies:
 
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Vert.x-informational?style=flat&logo=eclipse-vert.x&logoColor=white&color=2bbc8a)
 
 
