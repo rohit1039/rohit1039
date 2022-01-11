@@ -18,7 +18,6 @@
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 
-<br />
 
 ### My Projects:
 
