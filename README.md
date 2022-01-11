@@ -5,18 +5,18 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and sing
 
-## Languages and Tools:
+### Languages and Tools:
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Vscode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 
-## FrontEnd Technologies:
+### FrontEnd Technologies:
 
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 
-## BackEnd Technologies:
+### BackEnd Technologies:
 
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Vert.x-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
