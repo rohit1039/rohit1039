@@ -19,7 +19,7 @@
 ### BackEnd Technologies:
 
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vert.x-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Vert.x-informational?style=flat&logo=EclipseVert.x&logoColor=white&color=2bbc8a)
 
 
 ### My Projects:
