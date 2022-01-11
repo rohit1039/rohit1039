@@ -1,6 +1,6 @@
 # Hi there, I'm Rohit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
-- 🌱 I’m currently a full stack engineer
+- 🌱 I’m a full stack engineer
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and sing
