@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" pointer-events:"none" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
+<img align="left" alt="Visual Studio Code" width="26px" pointer-events="none" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" alt="HTML5" width="32px" height="32px" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-9.jpg" />
 <img align="left" alt="CSS3"  width="25px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
   <img align="left"  width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
