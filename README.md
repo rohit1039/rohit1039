@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/rohit1039/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 ### Hi there, I'm Rohit 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
