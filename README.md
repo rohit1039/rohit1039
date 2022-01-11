@@ -32,12 +32,12 @@
 
 ### My GitHub stats:
 
-[![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)](https://github.com/rohit1039/rohit1039)
+[![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)](https://github.com/rohit1039)
 
 
 ### My GitHub Contributions:
 
-[![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=vue)](https://github.com/rohit1039/rohit1039)
+[![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=vue)](https://github.com/rohit1039)
 
 ### Connect with me:
 
