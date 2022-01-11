@@ -1,5 +1,4 @@
 # Hi there, I'm Rohit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-<br />
 
 - 🌱 I’m currently a full stack engineer
 - 👯 I’m looking to collaborate with other content creators
