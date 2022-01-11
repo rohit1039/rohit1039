@@ -34,7 +34,7 @@
 
 [![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)](https://github.com/rohit1039)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=monokai)
 
 ### My GitHub Contributions:
 
