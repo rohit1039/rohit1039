@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/rohit1039/rohit1039/main/bg.png)](https://waylonwalker.com)
+# [![waylon walker header](https://raw.githubusercontent.com/rohit1039/rohit1039/main/bg.png)](https://github.com/rohit1039/rohit1039)
 
 ### Hi there, I'm Rohit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
