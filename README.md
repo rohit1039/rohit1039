@@ -1,7 +1,7 @@
 ### Hi there, I'm Rohit 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently a full stack engineer
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and sing
