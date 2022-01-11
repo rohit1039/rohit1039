@@ -37,7 +37,7 @@
 
 ### My GitHub Contributions:
 
-[![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=vue)](https://github.com/rohit1039)
+[![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=monokai)](https://github.com/rohit1039)
 
 ### Connect with me:
 
