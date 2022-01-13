@@ -30,6 +30,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=reactJS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/rohit1039/Ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=Ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 ### My GitHub stats:
 
 [![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)](https://github.com/rohit1039)
