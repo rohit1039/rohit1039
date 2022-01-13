@@ -2,7 +2,7 @@
 
 - 🚀 I’m a full stack engineer
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: To be a MERN stack developer
 - ⚡ Fun fact: I love to dance and sing
 
 ### Languages and Tools:
