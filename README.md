@@ -1,6 +1,6 @@
 # Hi there, I'm Rohit <img src="https://raw.githubusercontent.com/rohit1039/rohit1039/main/Wave.gif" width="30px" />
 
-- 🚀 I’m a full stack engineer
+- 🚀 I’m a full-stack engineer
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To be a MERN stack developer
 - ⚡ Fun fact: I love to dance and sing
