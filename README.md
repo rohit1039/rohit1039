@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 ### BackEnd Technologies:
 
