@@ -44,6 +44,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=DrumKit-JS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<br />
+<br />
+
+<a href="https://github.com/rohit1039/TinDog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=TinDog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 ### My GitHub stats:
 
