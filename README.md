@@ -40,8 +40,8 @@
 <br />
 <br />
 
-<a href="https://github.com/rohit1039/Drum-Kit JS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=Drum-Kit JS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rohit1039/DrumKit-JS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=DrumKit- JS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
