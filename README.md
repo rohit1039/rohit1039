@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Spring%20Tool%20Suite-brightgreen)
+![](https://img.shields.io/badge/Tool-Spring Tool Suite-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
 
 ### FrontEnd Technologies:
 
