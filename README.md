@@ -6,10 +6,10 @@
 
 ### 🛠️ Languages and Tools:
 
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Spring_Tool_Suite-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/Tool-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/Tool-Spring_Tool_Suite-informational?style=flat&logo=Spring&logoColor=white&color=yellowgreen)
 
 ### Frontend Technologies:
 
