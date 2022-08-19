@@ -6,6 +6,7 @@
 
 ### 🛠️ Languages and Tools:
 
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
