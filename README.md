@@ -4,21 +4,21 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to code and sing
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Spring_Tool_Suite-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
 
-### FrontEnd Technologies:
+### Frontend Technologies:
 
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React_JS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-### BackEnd Technologies:
+### Backend Technologies:
 
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Vert.x-informational?style=flat&logo=eclipse-vert.x&logoColor=white&color=2bbc8a)
