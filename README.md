@@ -1,8 +1,4 @@
-# Hi there, I'm Rohit 👨‍💻
-
-- 🚀 I’m a full-stack engineer
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to code and sing
+<img src="https://media.giphy.com/media/QqIyYacrohGNbEhwRT/giphy.gif" />
 
 ## 🛠️ Languages and Tools:
 
