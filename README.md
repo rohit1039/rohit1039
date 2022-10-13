@@ -1,6 +1,4 @@
-## H
-
-<img src="https://media.giphy.com/media/QqIyYacrohGNbEhwRT/giphy.gif">
+<img src="https://media.giphy.com/media/0y4WfS4vPBS6d3Hubo/giphy.gif">
 
 ## 🛠️ Languages and Tools:
 
