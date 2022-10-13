@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/QqIyYacrohGNbEhwRT/giphy.gif" />
+<img src="https://media.giphy.com/media/QqIyYacrohGNbEhwRT/giphy.gif">
 
 ## 🛠️ Languages and Tools:
 
