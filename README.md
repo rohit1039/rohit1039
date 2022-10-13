@@ -1,4 +1,4 @@
-<img src="https://github.com/rohit1039/rohit1039/blob/main/ezgif.com-gif-maker%20(1).gif">
+<img src="https://github.com/rohit1039/rohit1039/blob/main/ezgif.com-gif-maker.gif">
 
 ## 🛠️ Languages and Tools:
 
