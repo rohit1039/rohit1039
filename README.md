@@ -1,4 +1,6 @@
-<img src="https://github.com/rohit1039/rohit1039/blob/main/ezgif.com-gif-maker%20(1).gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## 🛠️ Languages and Tools:
 
