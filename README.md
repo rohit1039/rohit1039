@@ -1,4 +1,4 @@
-## Hey There <img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif" width="250" />
+## Hey There <img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif" width="50" height="50" />
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
