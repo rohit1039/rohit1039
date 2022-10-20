@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## 🛠️ Languages and Tools:
+## :hammer_and_wrench: Languages and Tools :
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=informational)
