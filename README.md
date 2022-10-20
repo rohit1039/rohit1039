@@ -44,7 +44,7 @@
 <br />
 <br />
 
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039&theme=dark)](https://github.com/rohit1039)
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My GitHub stats:
 
