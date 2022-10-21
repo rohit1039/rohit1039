@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey There&nbsp;<img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif" width="20" height="20" />
+  Hey There&nbsp;<img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif" width="30" />
 </h1>
 <br />
 <div align="center">
