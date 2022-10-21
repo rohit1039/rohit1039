@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">
   Hey There&nbsp;<img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif" width="30" />
 </h1>
