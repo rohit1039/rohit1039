@@ -1,7 +1,5 @@
 <div align="center">
-<div>
-  ## Hey There</div>
-  &nbsp;<img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif" width="20" height="20" />
+  Hey There&nbsp;<img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif" width="20" height="20" />
 </div>
 <br />
 <div align="center">
