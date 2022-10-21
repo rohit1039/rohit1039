@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
   Hey There&nbsp;<img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif" width="20" height="20" />
-</div>
+</h1>
 <br />
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
