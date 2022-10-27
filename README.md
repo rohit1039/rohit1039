@@ -58,13 +58,6 @@
 <br />
 <br />
 
-### [GitHub Stats Visualization](https://github.com/rohit1039/github-stats) - [jstrieb](https://github.com/rohit1039)
-<a href="https://github.com/rohit1039/github-stats">
-  
-![](https://github.com/rohit1039/github-stats/blob/main/generated/overview.svg)
-![](https://github.com/rohit1039/github-stats/blob/main/generated/languages.svg)
-</a>  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
 
 ### My GitHub stats:
