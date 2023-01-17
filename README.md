@@ -58,7 +58,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rohit1039.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
 
 <details>
   
