@@ -60,9 +60,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
 
-### My GitHub stats:
+<details>
+  
+  <summary>:zap: My GitHub stats: </summary>
 
 [![Rohit's GitHub Stats](https://github-readme-stats.rohit1039.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)]
+  
+</details>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1039&theme=monokai)
 
