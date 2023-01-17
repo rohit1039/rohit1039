@@ -62,7 +62,7 @@
 
 ### My GitHub stats:
 
-[![Rohit's GitHub Stats](https://rohit1039-zph3-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)](https://github.com/rohit1039)
+[![Rohit's GitHub Stats](https://rohit1039.rohit1039.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)](https://github.com/rohit1039)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1039&theme=monokai)
 
