@@ -1,6 +1,8 @@
-<h1 align="center">
+<samp>
+  <h1 align="center">
   &gt; Hey There,&nbsp; I am Rohit&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+  </samp>
 <br />
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
