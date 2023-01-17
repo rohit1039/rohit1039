@@ -62,9 +62,9 @@
 
 <details>
   
-  <summary>:zap: My GitHub stats: </summary>
+  <summary>:zap: My GitHub stats </summary>
 
-[![Rohit's GitHub Stats](https://github-readme-stats.rohit1039.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)]
+[![Rohit's GitHub Stats](https://rohit1039.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)]
   
 </details>
 
