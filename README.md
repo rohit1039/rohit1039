@@ -64,7 +64,7 @@
   
   <summary>:zap: My GitHub stats </summary>
 
- <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&&border_color=#000" />
+ <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
 </details>
 
