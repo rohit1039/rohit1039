@@ -8,7 +8,8 @@
 
 ## About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Experienced full-stack java developer with a passion for learning and working with new technologies that make a positive impact on
+society. Dedicated to learning better ways to write clean and efficient code while keeping up with the latest tech stacks
 
 - :seedling: Have strong hold on Java 8, Spring Boot and Microservices.
 
