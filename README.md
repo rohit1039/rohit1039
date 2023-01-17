@@ -10,7 +10,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Have strong hold on Java, Spring Boot and Microservices.
+- :seedling: Have strong hold on Java 8, Spring Boot and Microservices.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode.
 
