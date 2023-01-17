@@ -64,7 +64,7 @@
   
   <summary>:zap: My GitHub stats </summary>
 
-[![Rohit's GitHub Stats](https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)
+![](https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&theme=radical)
   
 </details>
 
