@@ -35,6 +35,14 @@
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=923CB5)
 ![](https://img.shields.io/badge/Framework-Vert.x-informational?style=flat&logo=eclipse-vert.x&logoColor=white&color=923CB5)
 
+<details>
+  
+  <summary>:zap: My GitHub stats </summary>
+
+ <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=0d1117&text_color=ffffff" />
+  
+</details>
+
 ## My Projects:
 
 <a href="https://github.com/rohit1039/DrumKit-JS">
@@ -59,14 +67,6 @@
 <br />
 
 [![Top Langs](https://github-readme-stats-rohit1039.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
-
-<details>
-  
-  <summary>:zap: My GitHub stats </summary>
-
- <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=0d1117&text_color=ffffff" />
-  
-</details>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1039&theme=monokai)
 
