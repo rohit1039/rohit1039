@@ -67,7 +67,7 @@ society.
 
 ### My GitHub Contributions:
 
-[![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=monokai)](https://github.com/rohit1039)
+[![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=monokai&bg_color=0d1117)](https://github.com/rohit1039)
 
 ### My Github Streak:
 
