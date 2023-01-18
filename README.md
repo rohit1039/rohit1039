@@ -77,6 +77,6 @@ society.
   
   <summary>:zap: My GitHub stats </summary>
 
- <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=0d1117&text_color=ffffff" />
+ <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&hide_border=true&theme=blueberry" />
   
 </details>
