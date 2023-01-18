@@ -48,8 +48,8 @@ society.
 
 ## My Projects:
 
-<a href="https://github.com/rohit1039/DrumKit-JS">
-  <img align="center" src="https://github-readme-stats-rohit1039.vercel.app/api/pin/?username=rohit1039&repo=DrumKit-JS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rohit1039/job-tracking-app">
+  <img align="center" src="https://github-readme-stats-rohit1039.vercel.app/api/pin/?username=rohit1039&repo=job-tracking-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <br />
