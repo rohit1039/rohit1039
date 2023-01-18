@@ -71,7 +71,7 @@ society.
 
 ### My Github Streak:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit1039&theme=dark&count_private=true&bg_color=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit1039&count_private=true&bg_color=0d1117)
 
 <details>
   
