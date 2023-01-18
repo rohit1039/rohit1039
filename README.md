@@ -38,14 +38,6 @@ society.
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=923CB5)
 ![](https://img.shields.io/badge/Framework-Vert.x-informational?style=flat&logo=eclipse-vert.x&logoColor=white&color=923CB5)
 
-<details>
-  
-  <summary>:zap: My GitHub stats </summary>
-
- <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=0d1117&text_color=ffffff" />
-  
-</details>
-
 ## My Projects:
 
 <a href="https://github.com/rohit1039/job-tracking-app">
@@ -80,3 +72,11 @@ society.
 ### My Github Streak:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit1039&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+<details>
+  
+  <summary>:zap: My GitHub stats </summary>
+
+ <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=0d1117&text_color=ffffff" />
+  
+</details>
