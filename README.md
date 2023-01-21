@@ -48,20 +48,20 @@ society.
 <br />
 
 <a href="https://github.com/rohit1039/course-enrollment-application">
-  <img align="center" src="https://github-readme-stats-rohit1039.vercel.app/api/pin?username=rohit1039&repo=course-enrollment-application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rohit1039&repo=course-enrollment-application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/rohit1039/Dicee-Challenge">
-  <img align="center" src="https://github-readme-stats-rohit1039.vercel.app/api/pin/?username=rohit1039&repo=Dicee-Challenge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=Dicee-Challenge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats-rohit1039.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1039&theme=monokai)
 
