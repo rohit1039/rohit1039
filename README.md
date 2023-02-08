@@ -1,6 +1,6 @@
 <samp>
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey+There%2C+I+am+Rohit!;I+lives+in+Bangalore%2C+Karnataka.;Working+as+a+full-stack+Engineer.&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hey+There%2C+I+am+Rohit!;I+lives+in+Bangalore%2C+Karnataka.;Working+as+a+full-stack+Engineer.;Made+in+ODISHA+❣️&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=1000">
 </h1>
 </samp>
 <br />
