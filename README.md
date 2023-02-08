@@ -1,6 +1,7 @@
 <samp>
 <h1 align="center">
-  &gt; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+There%2C+I+am+Rohit)](https://git.io/typing-svg) &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  &gt; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+There%2C+I+am+Rohit)](https://git.io/typing-svg)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 </samp>
 <br />
