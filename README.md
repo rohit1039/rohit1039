@@ -1,6 +1,6 @@
 <samp>
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=>+Hey+There%2C+I+am+Rohit+<img src="https://github.com/rohit1039/rohit1039/blob/main/Wave.gif">;I+lives+in+Bangalore%2C+Karnataka.;Working+as+a+Jr.+Software+Engineer.;Made+in+ODISHA+❣️&font=Monaco&center=true&width=1000&height=50&duration=4000&pause=1000&color=ddd">
+<img src="https://readme-typing-svg.demolab.com/?lines=>+Hey+There%2C+I+am+Rohit!;I+lives+in+Bangalore%2C+Karnataka.;Working+as+a+Jr.+Software+Engineer.;Made+in+ODISHA+❣️&font=Monaco&center=true&width=430&height=50&duration=4000&pause=1000&color=ddd">
 </h1>
 </samp>
 <br />
