@@ -69,14 +69,10 @@ society.
 
 [![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=monokai&bg_color=0d1117)](https://github.com/rohit1039)
 
-### My Github Streak:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit1039&count_private=true&theme=dark)
-
 <details>
   
-  <summary>:zap: My GitHub stats </summary>
+  <summary>:zap: My GitHub Streak </summary>
    <br />
- <img alt="github stats" src="https://github-readme-stats-rohit1039.vercel.app/api?username=rohit1039&show_icons=true&hide_border=false&bg_color=0d1117&theme=blueberry" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1039&count_private=true&theme=dark" />
   
 </details>
