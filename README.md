@@ -1,8 +1,3 @@
-<samp>
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=>+Hey+There%2C+I+am+Rohit!;I+lives+in+Bangalore%2C+Karnataka.;Working+as+a+Jr.+Software+Engineer.;Made+in+ODISHA+❣️&font=Monaco&center=true&width=450&height=50&duration=4000&pause=1000&color=ddd">
-</h1>
-</samp>
 <br />
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
