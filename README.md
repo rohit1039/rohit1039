@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- :telescope: Experienced full-stack java developer with a passion to work with latest tech-stack that makes a positive impact on
+- :telescope: 2+ years of experienced full-stack java developer with a passion to work with latest tech-stack that makes a positive impact on
 society.
 
 - :seedling: Have strong hold on Java 8, Spring Boot and Microservices.
