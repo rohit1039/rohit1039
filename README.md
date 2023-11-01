@@ -56,7 +56,9 @@ society.
 <br />
 <br />
 
+<p  align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
+</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1039&theme=monokai)
 
