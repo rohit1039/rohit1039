@@ -5,7 +5,7 @@
 
 <p>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px height=40px >&nbsp; 
-  <p> About Me : </p>
+About Me :
 </p>  
 
 - :telescope: 2+ years of experienced full-stack java developer with a passion to work with latest tech-stack that makes a positive impact on
