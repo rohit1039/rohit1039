@@ -13,7 +13,7 @@ society.
 
 - :seedling: Have strong hold on Java 8, Spring Boot and Microservices.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode.
+- :zap: In my free time, I solve problems on LeetCode.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohit_Parida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-parida-3382911a6/)
 
