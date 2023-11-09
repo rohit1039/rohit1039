@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
 </div>
 
-## About Me :
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 20px height=40px >&nbsp; About Me :
 
 - :telescope: 2+ years of experienced full-stack java developer with a passion to work with latest tech-stack that makes a positive impact on
 society.
