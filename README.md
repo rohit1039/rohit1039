@@ -8,8 +8,7 @@
 About Me :
 </p>  
 
-- :telescope: 3+ years of experience Java Developer with a passion for working with the latest tech stack that makes a positive impact on
-society.
+- :telescope: With over 3 years of experience as a Java Developer, I have a passion for working with the latest technology stack that can positively impact society.
 
 - :seedling: Strongly hold on Java 8, Spring Boot, and Microservices.
 
