@@ -8,9 +8,9 @@
 About Me :
 </p>  
 
-- :telescope: With over 3 years of experience as a Java Developer, I am passionate about working with the latest technology stack that can positively impact society.
+- :telescope: With over 3.5 years of experience as a Java Developer, I am passionate about working with the latest technology stack that can positively impact society.
 
-- :seedling: Strongly hold on Java 8, Spring Boot, and Microservices.
+- :seedling: Strongly hold on Java 8, Spring Boot, Eclipse Vert.x, MySQL, MongoDB, System Design (LLD and HLD), and Microservices.
 
 - :zap: In my free time, I solve problems on LeetCode.
 
