@@ -64,8 +64,10 @@ About Me :
 
 ### My GitHub Contributions:
 
+[![My GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=monokai&bg_color=0d1117)]()
+
 <details>
-  <summary><h3> 🧑‍💻 My GitHub Streak </h3></summary>
+  <h3> 🧑‍💻 My GitHub Streak </h3>
    <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1039&count_private=true&theme=dark" />
   
