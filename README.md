@@ -61,13 +61,3 @@ About Me :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1039&layout=compact&theme=monokai)](https://github.com/rohit1039/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1039&theme=monokai)
-
-### My GitHub Contributions:
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1039&theme=monokai&bg_color=0d1117)]()
-
-<details>
-  <summary><h3> 🧑‍💻 My GitHub Streak </h3></summary>
-   <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1039&count_private=true&theme=dark" />
-</details>
