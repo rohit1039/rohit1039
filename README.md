@@ -8,7 +8,7 @@
 About Me :
 </p>  
 
-- :telescope: With over 3 years of experience as a Java Developer, I am passionate about working with the latest technology stack
+- :telescope: With over 3 years of experience as a Java Full Stack Developer, I am passionate about working with the latest technology stack
               that can positively impact society.
 
 - :seedling: Strongly hold on Java 8, Spring Boot, Eclipse Vert.x, MySQL, MongoDB, System Design (LLD and HLD), and Microservices.
