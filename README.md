@@ -8,7 +8,7 @@
 About Me :
 </p>  
 
-- :telescope: With 3.5 years of experience as a Java Full Stack Engineer, I am passionate about working with the latest technology stack
+- :telescope: With 4.2 years of experience as a Java Full Stack Engineer, I am passionate about working with the latest technology stack
               that can positively impact society.
 
 - :seedling: Strongly hold on Java 8, Spring Boot, Eclipse Vert.x, MySQL, PostgreSQL, IBM Db2, MongoDB, System Design (LLD and HLD), and Microservices.
@@ -39,7 +39,7 @@ About Me :
 ## My Projects:
 
 <a href="https://github.com/rohit1039/ultimate-full-stack-E-commerce-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=ultimate-full-stack-E-commerce-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohit1039&repo=ultimate-full-stack-E-commerce-app_backup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <br />
